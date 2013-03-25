@@ -1,0 +1,1 @@
+ocamldoc -I +Labltk -html -d Doc types.ml operations_de_base.ml divers.ml huffman.ml destructive.ml acp.ml cxa_image.ml ppm_image.ml interface.ml compression.ml decompression.ml
